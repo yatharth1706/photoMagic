@@ -7,7 +7,7 @@ export default function Home() {
       <Head>
         <title>PhotoMagic</title>
       </Head>
-      <h2 className="text-center text-md">
+      <h2 className="text-center text-lg">
         Welcome to <span className="font-bold text-[#3290EE]">PhotoMagic</span>
       </h2>
       <h2 className="text-center mt-4 font-display text-4xl font-bold text-slate-900 sm:text-16xl">
